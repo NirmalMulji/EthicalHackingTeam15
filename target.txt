@@ -1,0 +1,3 @@
+http://dvwa.infosec.utexas.edu/vulnerabilities/xss_r
+http://dvwa.infosec.utexas.edu/vulnerabilities/xss_s
+Https://www.google.com
